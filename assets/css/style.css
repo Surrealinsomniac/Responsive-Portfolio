@@ -146,13 +146,13 @@ input[type=submit] {
     margin-right: 40px;
 }
 
-.hangmanGame {
+.bamazon {
     float: left;
     position: relative
 
 }
 
-.HMtitle {
+.Btitle {
     position: absolute;
     bottom: 20px;
     left: 60px;
